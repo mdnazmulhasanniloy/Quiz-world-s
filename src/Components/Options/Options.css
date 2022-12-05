@@ -1,0 +1,6 @@
+.correctAnswer{
+    color: green !important;
+}
+.falseAnswer{
+    color: red;
+}
